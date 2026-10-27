@@ -1,7 +1,7 @@
 # Hey there ✌🏾, I'm Franklin
 
 - 🌇 I live in São Paulo, Brasil!
-- 👨🏾‍💻 I'm a proudly Software Engineer at [Youse](https://www.youse.com.br/)
+- 👨🏾‍💻 I'm a proudly Software Engineer at Blufr Technology
 - 💻 I'm writing on Java (Spring Boot) with ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) :heart:
 - ✉️ You can shoot me an email at [personmail](mailto:franklincassiano@gmail.com)
 
